@@ -20,3 +20,7 @@ A responsive, static portfolio website inspired by the supplied lavender-and-pur
 3. Wait for the Pages deployment to complete. The site URL will appear in **Settings → Pages**.
 
 This is a plain HTML/CSS/JavaScript site; no build step is required.
+
+
+## GitHub Pages deployment
+Deployment is configured through the Actions workflow at `.github/workflows/pages.yml`.
